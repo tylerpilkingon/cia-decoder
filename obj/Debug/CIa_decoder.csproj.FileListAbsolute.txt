@@ -1,0 +1,10 @@
+C:\Users\Tyler\source\repos\CIa_decoder\bin\Debug\CIa_decoder.exe.config
+C:\Users\Tyler\source\repos\CIa_decoder\bin\Debug\CIa_decoder.exe
+C:\Users\Tyler\source\repos\CIa_decoder\bin\Debug\CIa_decoder.pdb
+C:\Users\Tyler\source\repos\CIa_decoder\obj\Debug\CIa_decoder.csprojAssemblyReference.cache
+C:\Users\Tyler\source\repos\CIa_decoder\obj\Debug\CIa_decoder.Form1.resources
+C:\Users\Tyler\source\repos\CIa_decoder\obj\Debug\CIa_decoder.Properties.Resources.resources
+C:\Users\Tyler\source\repos\CIa_decoder\obj\Debug\CIa_decoder.csproj.GenerateResource.cache
+C:\Users\Tyler\source\repos\CIa_decoder\obj\Debug\CIa_decoder.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\source\repos\CIa_decoder\obj\Debug\CIa_decoder.exe
+C:\Users\Tyler\source\repos\CIa_decoder\obj\Debug\CIa_decoder.pdb
